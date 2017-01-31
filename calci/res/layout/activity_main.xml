@@ -1,4 +1,4 @@
-package com.example.native_calc;
+package com.example.native_calculator;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
